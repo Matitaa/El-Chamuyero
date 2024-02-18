@@ -1,0 +1,6 @@
+lib
+dist
+bin
+node_modules
+coverage
+.changeset

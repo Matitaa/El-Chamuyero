@@ -1,0 +1,7 @@
+{
+	"files": ["src/**", "test/**", "*.md"],
+	"language": "en",
+	"noConfigSearch": true,
+	"words": ["", "tsup"],
+	"version": "0.2"
+}

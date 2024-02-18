@@ -1,0 +1,6 @@
+lib
+dist
+.github
+bin
+node_modules
+coverage
